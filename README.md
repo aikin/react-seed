@@ -1,12 +1,11 @@
 ## React seed
  
- ###### A boilerplate for building React apps.
+###### A boilerplate for building React apps.
  
  
  
  
- 
- ## TODO
+## TODO
  * Setup tests(karma, mocha, chai & sinon)
  * CSS/SCSS
  * React Router
